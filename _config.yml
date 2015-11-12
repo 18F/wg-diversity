@@ -1,5 +1,5 @@
 markdown: redcarpet
-name: 18F Agile Design Working Group
+name: 18F Diversity Working Group
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -30,10 +30,10 @@ navigation:
   url: index.html
   internal: true
 - text: Main repository
-  url: https://github.com/18F/wg-agiledesign/
+  url: https://github.com/18F/wg-diversity/
   internal: false
 - text: .about.yml
-  url: https://github.com/18F/wg-agiledesign/blob/18f-pages/.about.yml
+  url: https://github.com/18F/wg-diversity/blob/18f-pages/.about.yml
   internal: false
 - text: Objectives and Key Results
   url:
@@ -43,9 +43,9 @@ navigation:
   internal: false
 
 repos:
-- name: 18F Agile Design Working Group
+- name: 18F Diversity Working Group
   description: Main repository
-  url: https://github.com/18F/wg-agiledesign
+  url: https://github.com/18F/wg-diversity
 
 back_link:
   url: "https://pages.18f.gov/"
