@@ -5,7 +5,7 @@ title: Introduction
 ## Who are we?
 
 We are a [working
-group](https://pages.18f.gov/grouplet-playbook/working-groups/) dedicated making 18F the best team it can be.  
+group](https://pages.18f.gov/grouplet-playbook/working-groups/) dedicated to making 18F the best team it can be.
 
 ## What do we do/what have we done?
 
