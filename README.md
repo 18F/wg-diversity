@@ -1,7 +1,7 @@
-## 18F Agile Design Working Group
+## Diversity Working Group
 
-This is the repository for the [18F Agile Design Working
-Group](https://pages.18f.gov/wg-agiledesign/).
+This is the repository for the [18F Diversity Working
+Group](https://pages.18f.gov/wg-diversity/).
 
 ### Generating the site/hosting locally
 
